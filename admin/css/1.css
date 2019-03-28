@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.classname{
+	background: #F00;
+	color:#ccc;
+}
+#nihao{
+	display:flex;
+	line-height: 100px;
+	font-size: 30px;
+}
